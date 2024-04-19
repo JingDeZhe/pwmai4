@@ -1,0 +1,13 @@
+{
+  "name": "programming-with-mathematica-an-introduction",
+  "scripts": {
+    "dev": "vitepress dev src",
+    "build": "vitepress build src",
+    "serve": "vitepress serve src"
+  },
+  "devDependencies": {
+    "glob": "^10.3.12",
+    "markdown-it-mathjax3": "^4.3.2",
+    "vitepress": "1.1.3"
+  }
+}

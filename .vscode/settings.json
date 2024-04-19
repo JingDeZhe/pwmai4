@@ -1,0 +1,8 @@
+{
+  "editor.fontFamily": "霞鹜文楷等宽",
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#093049",
+    "titleBar.activeBackground": "#0D4366",
+    "titleBar.activeForeground": "#F7FBFE"
+  }
+}
